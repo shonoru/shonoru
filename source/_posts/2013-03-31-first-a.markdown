@@ -1,0 +1,15 @@
+---
+layout: post
+title: "First A"
+date: 2013-03-31 01:41
+comments: true
+categories:
+---
+Hello world, it's me. It's my first post, and I hope it would be updated constantly.
+
+Few goals I would like to achieve by doing this:
+
++   practice my english,
++   and share some thoughts, tips and hacks, which I use in everyday life, mostly in web development.
+
+Cheers!
