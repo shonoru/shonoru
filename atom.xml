@@ -4,13 +4,32 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://shonoru.github.com/shonoru/atom.xml" rel="self"/>
   <link href="http://shonoru.github.com/shonoru/"/>
-  <updated>2013-03-31T01:14:59+08:00</updated>
+  <updated>2013-03-31T02:38:48+08:00</updated>
   <id>http://shonoru.github.com/shonoru/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Andrey Bodoev]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First A]]></title>
+    <link href="http://shonoru.github.com/shonoru/blog/2013/03/31/first-a/"/>
+    <updated>2013-03-31T01:41:00+08:00</updated>
+    <id>http://shonoru.github.com/shonoru/blog/2013/03/31/first-a</id>
+    <content type="html"><![CDATA[<p>Hello world, it&#8217;s me. It&#8217;s my first post, and I hope it would be updated constantly.</p>
+
+<p>Few goals I would like to achieve by doing this:</p>
+
+<ul>
+<li>practice my english,</li>
+<li>and share some thoughts, tips and hacks, which I use in everyday life, mostly in web development.</li>
+</ul>
+
+
+<p>Cheers!</p>
+]]></content>
+  </entry>
   
 </feed>
